@@ -1,0 +1,17 @@
+cat countries.txt
+less countries.txt 
+apertar espaço até chegar em Zambia
+grep Brazil countries.txt
+grep -i brazil countries.txt
+touch phrases.txt
+
+
+
+
+
+
+
+
+
+
+
