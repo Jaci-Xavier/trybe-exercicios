@@ -13,3 +13,18 @@ Renomeie a pasta backup2 para backup.
 Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
 Apague o diretório backup.
 Limpe o terminal.
+
+Para os próximos dois exercícios, crie, de forma manual, na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
+
+Internet
+Unix
+Bash
+HTML
+CSS
+JavaScript
+React
+SQL
+
+Mostre na tela as 5 primeiras skills do arquivo skills.txt.
+Mostre na tela as 4 últimas skills do arquivo skills.txt.
+Apague todos os arquivos que terminem em .txt.
