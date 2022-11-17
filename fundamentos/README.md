@@ -168,13 +168,13 @@ Contém todas as atividades desenvolvidas por __[Jaci Xavier](https://www.linked
 - [ ] 25.3 - Projeto - Aggregations
 
 ##### Bloco 26: [Introdução ao desenvolvimento Web com NodeJS]()
-- [x] 26.1 - Intro - NodeJS
-- [x] 26.1 - NodeJS - Introdução
-- [x] 26.2 - NodeJS - Fluxo Assíncrono
-- [x] 26.3 - Testes com NodeJS
-- [x] 26.4 - Express: HTTP com Node.js
-- [x] 26.5 - Praticando Express
-- [x] 26.6 - Projeto - Talker manager
+- [ ] 26.1 - Intro - NodeJS
+- [ ] 26.1 - NodeJS - Introdução
+- [ ] 26.2 - NodeJS - Fluxo Assíncrono
+- [ ] 26.3 - Testes com NodeJS
+- [ ] 26.4 - Express: HTTP com Node.js
+- [ ] 26.5 - Praticando Express
+- [ ] 26.6 - Projeto - Talker manager
 
 ##### Bloco 27: [NodeJS: Camada de Serviço e Arquitetura Rest e Restful]()
 - [ ] 27.1 - Introdução - Arquitetura de Software
