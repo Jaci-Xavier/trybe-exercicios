@@ -18,3 +18,5 @@ rm -rd backup
 clear
 
 
+head -n 5 skills.txt
+tail -n 4 skills.txt
