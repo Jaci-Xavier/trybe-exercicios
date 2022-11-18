@@ -31,14 +31,14 @@ Dica: Para criação de arquivos vazios, você pode utilizar o comando `touch` `
 
 * Para os próximos dois exercícios, crie, de forma manual, na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado `skills.txt`:
 
-`Internet`
-`Unix`
-`Bash`
-`HTML`
-`CSS`
-`JavaScript`
-`React`
-`SQL`
+* `Internet`
+* `Unix`
+* `Bash`
+* `HTML`
+* `CSS`
+* `JavaScript`
+* `React`
+* `SQL`
 
 * Mostre na tela as 5 primeiras skills do arquivo `skills.txt`.
 
@@ -46,4 +46,4 @@ Dica: Para criação de arquivos vazios, você pode utilizar o comando `touch` `
 
 * Apague todos os arquivos que terminem em `.txt`.
 
-### Esses exercícios foram feitos por [min](https://www.linkedin.com/in/jaci-xavier-b3358b142/) na [Trybe](https://www.betrybe.com/).
+### Esses exercícios foram feitos por [Min](https://www.linkedin.com/in/jaci-xavier-b3358b142/) na [Trybe](https://www.betrybe.com/).
