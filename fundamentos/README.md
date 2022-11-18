@@ -12,3 +12,6 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
     * 6. HTML e CSS: Forms, Flexbox e Responsivo
     * 7. Introdução à JavaScript ES6 e Testes Unitários
     * 8. Higher Order Functions do JavaScript ES6
+
+
+### Esses exercícios foram feitos por [min](https://www.linkedin.com/in/jaci-xavier-b3358b142/) na [Trybe](https://www.betrybe.com/).
