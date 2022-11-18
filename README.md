@@ -6,9 +6,9 @@ Contém todas as atividades desenvolvidas por __[Jaci Xavier](https://www.linked
 
 ## Fundamentos do Desenvolvimento Web :
 
-##### Bloco 1: [Unix, Bash e Shell Script]()
+##### Bloco 1: [Unix, Bash e Shell Script]() hourglass_flowing_sand:
 - [ ] 1.3 - Fundamentos do Desenvolvimento Web
-- [ ] 1.3 - Introdução - Unix & Shell
+- [x] 1.3 - Introdução - Unix & Shell
 - [ ] 1.3 - Unix & Bash - Parte 1
 - [ ] 1.4 - Unix & Bash - Parte 2
 
@@ -211,7 +211,7 @@ Contém todas as atividades desenvolvidas por __[Jaci Xavier](https://www.linked
 ##### Bloco 32: Projeto Trybeer II
 - [ ] 32.1 - Projeto - Trybeer v2
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação :
 
 ##### Bloco 33: Arquitetura de Computadores e Redes
 - [ ] 33.1 - Introdução - Ciência da Computação
