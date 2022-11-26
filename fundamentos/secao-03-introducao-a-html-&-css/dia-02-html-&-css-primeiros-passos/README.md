@@ -19,3 +19,5 @@
 * Explore as propriedades font-style, line-height, text-align e text-decoration;
 
 * Troque a cor de fundo de cada item da lista para a cor correspondente ao texto.
+
+* Coloque todo o CSS do arquivo index2.html tag style em um arquivo externo.  style2.css
