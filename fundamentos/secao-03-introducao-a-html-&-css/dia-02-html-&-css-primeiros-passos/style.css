@@ -1,12 +1,36 @@
 h1 {
     font-size: 65px;
     color: orange;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+body{
+    font-size: 16px;
+}
+
+p{
+    font-weight: 600;
+    font-size: 300%;
+    font-style: italic;
 }
 
 .cor-de-fundo{
-    background-color: green;
+    background-color: rgb(230, 230, 230);
 }
 
-ul {
+li {
     background-color: gray;
+    line-height: 30px;
+    text-align: center;
+    font-size: 2em;
+}
+#amarelo {
+    background-color: yellow;
+}
+#vermelho {
+    background-color: red;
+}
+#marrom {
+    background-color: brown;
 }
