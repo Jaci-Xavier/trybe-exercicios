@@ -2,6 +2,11 @@ h1 {
     font-size: 65px;
     color: orange;
 }
+
+.cor-de-fundo{
+    background-color: green;
+}
+
 ul {
     background-color: gray;
 }
