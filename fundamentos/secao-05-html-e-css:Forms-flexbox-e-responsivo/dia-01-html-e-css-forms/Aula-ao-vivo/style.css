@@ -2,18 +2,19 @@
   margin: 0;
   padding: 0;
 }
-.header{
-  background-color: white;
-}
 
 body {
   background-color: #e7e7e7;
 }
 
+
 h5, hr{
   margin-top: 20px;
 }
 
+.header{
+  background-color: #fff;
+}
 
 .header-elements{
   text-align: left;
@@ -24,9 +25,8 @@ h5, hr{
   padding: 30px;
 }
 
-img{
+.header img{
   height: 100px;
-
 }
 
 .main-content{
@@ -36,10 +36,11 @@ img{
   padding: 60px;
 }
 
-.input{
+.inputs{
   padding-top: 30px;
 }
 
-.buttoms{
-
+.buttons{
+  margin-top: 30px;
+  text-align: center;
 }
