@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Spotfy Form</title>
+  </head>
+  <body>
+    <header>
+      <section class="header"></section>
+      <div class="header-elements" id="header-elements">
+        <img src="/secao-05-html-e-css:Forms-flexbox-e-responsivo/dia-01-html-e-css-forms/img/Spotfy.png" alt="">
+        <h1>Junior Web Developer</h1>
+        <h5>SÃO PAULO, SP / PERMANENT / REMOTE</h5>
+      </div>
+    </header>
+
+    <main class="main-content">
+      <form action="">
+        <!-- FORMULARIO -->
+        <!-- Envido do resumo do curriculo em PDF -->
+        <div class="inputs">
+          <label for="resume">Resume/CV*</label>
+          <input type="file" name="resume" id="resume" required/>
+        </div>
+
+        <div class="inputs">
+          <label for="full-name">Full name*</label>
+          <input type="text" name="full-name" id="full-name" required/>
+        </div>
+        <div>
+
+          <!--PRONOME -->
+          <label>Pronouns:</label>
+          <input type="radio" name="pronoums" id="he-him" value="he-him">
+          <label for="he-him">He/Him</label>
+
+          <input type="radio" name="pronoums" id="she-her" value="she-her">
+          <label for="she-her">She/Her</label>
+
+          <input type="radio" name="pronoums" id="they/them" value="they-them">
+          <label for="they/them">They/Them</label>
+        </div>
+
+        <!-- EMAIL -->
+        <div class="inputs">
+          <label for="email">E-Mail*</label>
+          <input type="email" name="email" id="email" required/>
+        </div>
+
+          <!-- DATA DE NASCIMENTO -->
+          <div class="inputs">
+            <label for="birth-date">Birth date</label>
+            <input type="date" name="birth-date" id="birth-date" />
+          </div>
+
+          <!-- link LinkId -->
+          <h5>LINKS</h5>
+          <div class="inputs">
+            <label for="linkedIn">LinkedIn</label>
+            <input type="url" name="linkedIn" id="linkedIn" />
+          </div>
+          <!-- link GitHub -->
+          <div class="inputs">
+            <label for="github">GitHub</label>
+            <input type="url" name="github" id="github" />
+          </div>
+        <hr>
+        <div class="inputs"> ADDITIONAL INFORMATIONS
+          <textarea name="cover-letter" id="cover-letter" cols="40" rows="8"></textarea>
+         </label>
+        <hr>
+        
+        <div class="inputs">
+          <label for="consent">
+          <input type="checkbox" name="consent" id="consent" />
+          Yes, Spotify can contact me about future job opportunitiest for up to 3 years
+        </label>
+
+
+
+        <div class="buttoms" >
+          <button>SUBMIT</button>
+          <button>RESET</button>
+        </div>
+        </div>
+
+      </form>
+    </main>
+  </body>
+</html>

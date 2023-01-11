@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header{
+  background-color: white;
+}
+
+body {
+  background-color: #e7e7e7;
+}
+
+h5, hr{
+  margin-top: 20px;
+}
+
+
+.header-elements{
+  text-align: left;
+  max-width: 60%;
+  margin: auto;
+  color: #515357;
+  font-size: 30px;
+  padding: 30px;
+}
+
+img{
+  height: 100px;
+
+}
+
+.main-content{
+  text-align: left;
+  max-width: 60%;
+  margin: auto;
+  padding: 60px;
+}
+
+.input{
+  padding-top: 30px;
+}
+
+.buttoms{
+
+}
