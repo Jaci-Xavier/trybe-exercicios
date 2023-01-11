@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header{
+  background-color: white;
+  text-align: center;
+}
+
+.header-elements{
+  max-width: 60%;
+  margin: auto;
+  color: #515357;
+  font-size: 25px;
+  padding: 25px;
+}
+
+body {
+  background-color: #e7e7e7;
+  text-align: left;
+}
+
+h5, hr{
+  margin-top: 15px;
+}
+
+nav {
+  text-align: center;
+  padding: 5px;
+}
+
+#lembre-me {
+  font-size: 15px;
+}
