@@ -1,0 +1,12 @@
+img {
+  max-width: 50px;
+  min-width: 30px;
+}
+
+#birth-date {
+  width: 50%;
+}
+
+.form-select{
+  width: 50%;
+}
